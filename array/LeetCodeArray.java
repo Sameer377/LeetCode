@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class LeetCodeArray {
 
     /*
@@ -87,30 +89,113 @@ public class LeetCodeArray {
             merge[k++] = arr2[j++];
         }
 
-        int midx=0;
-        for(int d=0;d<arr1.length;d++){
-            arr1[d]=merge[midx++];
+        int midx = 0;
+        for (int d = 0; d < arr1.length; d++) {
+            arr1[d] = merge[midx++];
         }
 
-        for(int f=0;f<arr2.length;f++){
-            arr2[f]=merge[midx++];
+        for (int f = 0; f < arr2.length; f++) {
+            arr2[f] = merge[midx++];
         }
-
 
     }
 
+    /*
+     * Given an array of intervals where intervals[i] = [starti, endi], merge all
+     * overlapping intervals, and return an array of the non-overlapping intervals
+     * that cover all the intervals in the input.
+     * 
+     * Example 1:
+     * 
+     * Input: intervals = [[1,3],[2,6],[8,10],[15,18]]
+     * Output: [[1,6],[8,10],[15,18]]
+     * Explanation: Since intervals [1,3] and [2,6] overlap, merge them into [1,6].
+     * Example 2:
+     * 
+     * Input: intervals = [[1,4],[4,5]]
+     * Output: [[1,5]]
+     * Explanation: Intervals [1,4] and [4,5] are considered overlapping.
+     */
+    public static int[][] merge(int intervals[][]) {
+        if (intervals.length <= 1)
+            return intervals;
+        Arrays.sort(intervals, Comparator.comparingInt(i -> i[0]));
+        List<int[]> result = new ArrayList<>();
+        int newinterval[] = intervals[0];
+        result.add(newinterval);
+        for (int[] interval : intervals) {
+            if (interval[0] <= newinterval[1]) {
+                newinterval[1] = Math.max(interval[1], newinterval[1]);
+            } else {
+                newinterval = interval;
+                result.add(newinterval);
+            }
+        }
+        return result.toArray(new int[result.size()][]);
+    }
 
+
+    /*  Find the Duplicate Number
+Medium
+Topics
+Companies
+Given an array of integers nums containing n + 1 integers where each integer is in the range [1, n] inclusive.
+
+There is only one repeated number in nums, return this repeated number.
+
+You must solve the problem without modifying the array nums and uses only constant extra space.
+
+ 
+
+Example 1:
+
+Input: nums = [1,3,4,2,2]
+Output: 2
+Example 2:
+
+Input: nums = [3,1,3,4,2]
+Output: 3
+Example 3:
+
+Input: nums = [3,3,3,3,3]
+Output: 3
+  */
+
+  static int findDuplicate(int arr[]){
+
+    int n=0;
+    Arrays.sort(arr);
+
+   for(int i=0;i<arr.length-1;i++){
+    if(arr[i]!=arr[i+1]){
+        
+    }else{
+        n=arr[i];
+    }
+   }
+
+
+    return n;
+  } 
+  static int findDuplicate1(int arr[]){
+
+    int l = arr.length;
+    boolean x[]=new boolean[l];
+
+    for(int i:arr){
+        if(x[i]) return i;
+        else x[i]=true;
+    }
+
+    return -1;  
+
+  }
 
     public static void main(String[] args) {
 
-    int arr1[] = {1, 5, 9, 10, 15, 20};
-    int arr2[] = {2, 3, 8, 13};
-
-    mergeArrays(arr1, arr2);
-    printarr(arr1);
-    System.out.println("\n");
-    printarr(arr2);
-
+    int[] nums = {1,3,4,2,2};
+    int duplicate = findDuplicate(nums);
+    System.out.println("Duplicate number is: " + duplicate);
 
     }
 }
