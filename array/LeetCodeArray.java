@@ -134,68 +134,86 @@ public class LeetCodeArray {
         return result.toArray(new int[result.size()][]);
     }
 
+    /*
+     * Find the Duplicate Number
+     * Medium
+     * Topics
+     * Companies
+     * Given an array of integers nums containing n + 1 integers where each integer
+     * is in the range [1, n] inclusive.
+     * 
+     * There is only one repeated number in nums, return this repeated number.
+     * 
+     * You must solve the problem without modifying the array nums and uses only
+     * constant extra space.
+     * 
+     * 
+     * 
+     * Example 1:
+     * 
+     * Input: nums = [1,3,4,2,2]
+     * Output: 2
+     * Example 2:
+     * 
+     * Input: nums = [3,1,3,4,2]
+     * Output: 3
+     * Example 3:
+     * 
+     * Input: nums = [3,3,3,3,3]
+     * Output: 3
+     */
 
-    /*  Find the Duplicate Number
-Medium
-Topics
-Companies
-Given an array of integers nums containing n + 1 integers where each integer is in the range [1, n] inclusive.
+    static int findDuplicate(int arr[]) {
 
-There is only one repeated number in nums, return this repeated number.
+        int n = 0;
+        Arrays.sort(arr);
 
-You must solve the problem without modifying the array nums and uses only constant extra space.
+        for (int i = 0; i < arr.length - 1; i++) {
+            if (arr[i] != arr[i + 1]) {
 
- 
+            } else {
+                n = arr[i];
+            }
+        }
 
-Example 1:
-
-Input: nums = [1,3,4,2,2]
-Output: 2
-Example 2:
-
-Input: nums = [3,1,3,4,2]
-Output: 3
-Example 3:
-
-Input: nums = [3,3,3,3,3]
-Output: 3
-  */
-
-  static int findDuplicate(int arr[]){
-
-    int n=0;
-    Arrays.sort(arr);
-
-   for(int i=0;i<arr.length-1;i++){
-    if(arr[i]!=arr[i+1]){
-        
-    }else{
-        n=arr[i];
-    }
-   }
-
-
-    return n;
-  } 
-  static int findDuplicate1(int arr[]){
-
-    int l = arr.length;
-    boolean x[]=new boolean[l];
-
-    for(int i:arr){
-        if(x[i]) return i;
-        else x[i]=true;
+        return n;
     }
 
-    return -1;  
+    static int findDuplicate1(int arr[]) {
 
-  }
+        int l = arr.length;
+        boolean x[] = new boolean[l];
+
+        for (int i : arr) {
+            if (x[i])
+                return i;
+            else
+                x[i] = true;
+        }
+
+        return -1;
+
+    }
+
+    /*
+     * Rotate Image
+     * Medium
+     * Topics
+     * Companies
+     * You are given an n x n 2D matrix representing an image, rotate the image by
+     * 90 degrees (clockwise).
+     */
+    public static void rotate(int[][] matrix) {
+      
+    }
 
     public static void main(String[] args) {
 
-    int[] nums = {1,3,4,2,2};
-    int duplicate = findDuplicate(nums);
-    System.out.println("Duplicate number is: " + duplicate);
-
+    int[][] matrix = {
+        {1, 2, 3},
+        {4, 5, 6},
+        {7, 8, 9}
+    };
+    rotate(matrix);
     }
 }
