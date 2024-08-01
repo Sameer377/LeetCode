@@ -204,16 +204,104 @@ public class LeetCodeArray {
      * 90 degrees (clockwise).
      */
     public static void rotate(int[][] matrix) {
-      
+
+        for (int i = 0; i < matrix.length; i++) {
+            for (int j = 0; j < i; j++) {
+
+                int temp = matrix[i][j];
+                matrix[i][j] = matrix[j][i];
+                matrix[j][i] = temp;
+
+            }
+        }
+        for (int i = 0; i < matrix.length; i++) {
+            int s = 0, e = matrix[i].length - 1;
+            while (s < e) {
+                int temp = matrix[i][s];
+                matrix[i][s] = matrix[i][e];
+                matrix[i][e] = temp;
+                s++;
+                e--;
+            }
+        }
+
+    }
+
+    /*
+     * Search a 2D Matrix
+     * Medium
+     * Topics
+     * Companies
+     * You are given an m x n integer matrix matrix with the following two
+     * properties:
+     * 
+     * Each row is sorted in non-decreasing order.
+     * The first integer of each row is greater than the last integer of the
+     * previous row.
+     * Given an integer target, return true if target is in matrix or false
+     * otherwise.
+     * 
+     * You must write a solution in O(log(m * n)) time complexity.
+     */
+
+    public boolean searchMatrix(int[][] matrix, int target) {
+
+        for (int i = 0; i < matrix.length; i++) {
+            for (int j = 0; j < matrix[i].length; j++) {
+                if (matrix[i][j] == target) {
+                    return true;
+                }
+            }
+        }
+
+        return false;
+    }
+
+    /*
+     * 169. Majority Element
+     * Easy
+     * Topics
+     * Companies
+     * Given an array nums of size n, return the majority element.
+     * 
+     * The majority element is the element that appears more than ⌊n / 2⌋ times. You
+     * may assume that the majority element always exists in the array.
+     * 
+     * 
+     * 
+     * Example 1:
+     * 
+     * Input: nums = [3,2,3]
+     * Output: 3
+     * Example 2:
+     * 
+     * Input: nums = [2,2,1,1,1,2,2]
+     * Output: 2
+     */
+
+     public  static int majorityElement(int[] nums) {
+        Arrays.sort(nums);
+        int j=0;
+        int i=0;
+        int maxC=0;
+        int ele=0;
+        while(j<nums.length){
+            if(nums[i]!=nums[j]){
+                if(maxC<j-1){
+                    maxC=j-i;
+                    ele=nums[j];
+                }
+                i=j; 
+            }
+            j++;
+        }
+        return ele;
     }
 
     public static void main(String[] args) {
 
-    int[][] matrix = {
-        {1, 2, 3},
-        {4, 5, 6},
-        {7, 8, 9}
-    };
-    rotate(matrix);
+    int[] nums = {2,2,1,1,1,2,2,3,3};
+    int majority = majorityElement(nums);
+    System.out.println("Majority Element: " + majority);
     }
 }
