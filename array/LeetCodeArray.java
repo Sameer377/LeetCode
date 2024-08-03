@@ -279,29 +279,141 @@ public class LeetCodeArray {
      * Output: 2
      */
 
-     public  static int majorityElement(int[] nums) {
+    public static int majorityElement(int[] nums) {
         Arrays.sort(nums);
-        int j=0;
-        int i=0;
-        int maxC=0;
-        int ele=0;
-        while(j<nums.length){
-            if(nums[i]!=nums[j]){
-                if(maxC<j-1){
-                    maxC=j-i;
-                    ele=nums[j];
+
+        int i = 0, j = 0;
+        int c = 0;
+        int maxC = 0;
+        int ele = 0;
+        while (j < nums.length) {
+            if (nums[i] == nums[j]) {
+                c++;
+                j++;
+                if (maxC < c) {
+                    maxC = c;
+                    ele = nums[i];
                 }
-                i=j; 
+            } else {
+                i = j;
+                c = 0;
             }
-            j++;
         }
+
         return ele;
     }
 
-    public static void main(String[] args) {
+    /*
+     * 229. Majority Element II
+     * Solved
+     * Medium
+     * Topics
+     * Companies
+     * Hint
+     * Given an integer array of size n, find all elements that appear more than ⌊
+     * n/3 ⌋ times.
+     * 
+     * 
+     * 
+     * Example 1:
+     * 
+     * Input: nums = [3,2,3]
+     * Output: [3]
+     * Example 2:
+     * 
+     * Input: nums = [1]
+     * Output: [1]
+     * Example 3:
+     * 
+     * Input: nums = [1,2]
+     * Output: [1,2]
+     */
 
-    int[] nums = {2,2,1,1,1,2,2,3,3};
-    int majority = majorityElement(nums);
-    System.out.println("Majority Element: " + majority);
+    public List<Integer> majorityElement1(int[] nums) {
+
+        List<Integer> arr = new ArrayList<>();
+        Arrays.sort(nums);
+
+        int i = 0, j = 0;
+        int c = 0;
+
+        while (j < nums.length) {
+            if (nums[i] == nums[j]) {
+                c++;
+                j++;
+                if (nums.length / 3 < c) {
+                    if (!arr.contains(nums[i])) {
+
+                        arr.add(nums[i]);
+                    }
+                }
+            } else {
+                i = j;
+                c = 0;
+            }
+        }
+
+        return arr;
+    }
+
+   
+    public static void secondL(int nums[]){
+    Arrays.sort(nums);
+    System.out.println(nums[nums.length-2]);
+    }
+
+
+    public static int binarySearch(int nums[],int data){
+
+        Arrays.sort(nums);
+
+        int s=0;
+        int e=nums.length-1;
+        int mid;
+        while (s<=e) {
+            mid=(s+e)/2;
+
+            if(nums[mid]==data)
+            return mid;
+
+            if(nums[mid]>data){
+                e=mid-1;
+            }else if(nums[mid]<data){
+                s=mid+1;
+            }
+
+        }
+
+        return -1;
+
+    }
+
+
+    public static void bubbleSort(int  arr[]){
+
+
+        for(int i=0;i<arr.length;i++){
+            for(int j=0;j<arr.length-1;j++){
+                if(arr[j]>arr[j+1]){
+                    int temp=arr[j];
+                    arr[j]=arr[j+1];
+                    arr[j+1]=temp;
+                }
+                System.out.print(arr[j]+" ");
+            }
+            System.out.println();
+        }
+
+       /*  for(int i:arr){  
+            System.out.print(i+" ");
+        } */
+        
+
+    }
+
+
+    public static void main(String[] args) {
+    int[] nums = {20, 1, 19, 2, 18, 3, 17, 4, 16, 5, 15, 6, 14, 7, 13, 8, 12, 9, 11, 10};
+    bubbleSort(nums);
     }
 }
