@@ -16,7 +16,7 @@ class Solution {
             stack.push(i);
         }
 
-        for(int i:res) System.out.print(i+" ");
+       // for(int i:res) System.out.print(i+" ");
 
         return res;
     }
