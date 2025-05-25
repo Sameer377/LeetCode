@@ -18,12 +18,14 @@
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Sameer377/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sameer377/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sameer377/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sameer377/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Sameer377/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sameer377/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sameer377/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sameer377/LeetCode/tree/master/0739-daily-temperatures) |
@@ -60,4 +62,9 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sameer377/LeetCode/tree/master/0013-roman-to-integer) |
+| [0402-remove-k-digits](https://github.com/Sameer377/LeetCode/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Sameer377/LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
