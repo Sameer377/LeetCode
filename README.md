@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/Sameer377/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sameer377/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sameer377/LeetCode/tree/master/0018-4sum) |
+| [0189-rotate-array](https://github.com/Sameer377/LeetCode/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/Sameer377/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sameer377/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sameer377/LeetCode/tree/master/0739-daily-temperatures) |
@@ -36,6 +37,7 @@
 | [0016-3sum-closest](https://github.com/Sameer377/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sameer377/LeetCode/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/Sameer377/LeetCode/tree/master/0061-rotate-list) |
+| [0189-rotate-array](https://github.com/Sameer377/LeetCode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sameer377/LeetCode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Sameer377/LeetCode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
