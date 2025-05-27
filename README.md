@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/Sameer377/LeetCode/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/Sameer377/LeetCode/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Sameer377/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Sameer377/LeetCode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Sameer377/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sameer377/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sameer377/LeetCode/tree/master/0739-daily-temperatures) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sameer377/LeetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Sameer377/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sameer377/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Sameer377/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0817-design-hashmap](https://github.com/Sameer377/LeetCode/tree/master/0817-design-hashmap) |
@@ -49,6 +51,7 @@
 | [0015-3sum](https://github.com/Sameer377/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sameer377/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sameer377/LeetCode/tree/master/0018-4sum) |
+| [0217-contains-duplicate](https://github.com/Sameer377/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sameer377/LeetCode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
