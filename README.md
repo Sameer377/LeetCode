@@ -12,11 +12,13 @@
 | [0496-next-greater-element-i](https://github.com/Sameer377/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sameer377/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sameer377/LeetCode/tree/master/0739-daily-temperatures) |
+| [0817-design-hashmap](https://github.com/Sameer377/LeetCode/tree/master/0817-design-hashmap) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sameer377/LeetCode/tree/master/0013-roman-to-integer) |
 | [0496-next-greater-element-i](https://github.com/Sameer377/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0817-design-hashmap](https://github.com/Sameer377/LeetCode/tree/master/0817-design-hashmap) |
 ## Stack
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Sameer377/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Sameer377/LeetCode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Sameer377/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0817-design-hashmap](https://github.com/Sameer377/LeetCode/tree/master/0817-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -79,4 +82,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sameer377/LeetCode/tree/master/0053-maximum-subarray) |
+## Design
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/Sameer377/LeetCode/tree/master/0817-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/Sameer377/LeetCode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
