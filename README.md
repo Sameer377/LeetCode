@@ -27,6 +27,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Sameer377/LeetCode/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Sameer377/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sameer377/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sameer377/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -99,6 +100,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Sameer377/LeetCode/tree/master/0155-min-stack) |
 | [0817-design-hashmap](https://github.com/Sameer377/LeetCode/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
