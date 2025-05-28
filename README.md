@@ -21,6 +21,7 @@
 | [0205-isomorphic-strings](https://github.com/Sameer377/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Sameer377/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sameer377/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Sameer377/LeetCode/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/Sameer377/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0817-design-hashmap](https://github.com/Sameer377/LeetCode/tree/master/0817-design-hashmap) |
 ## Stack
@@ -78,6 +79,7 @@
 | [0013-roman-to-integer](https://github.com/Sameer377/LeetCode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Sameer377/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sameer377/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Sameer377/LeetCode/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/Sameer377/LeetCode/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sameer377/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Greedy
