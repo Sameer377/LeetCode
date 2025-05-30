@@ -4,13 +4,14 @@ class Solution {
         //["5","2","C","D","+"]
 
         Stack<Integer> stack = new Stack<>();
-
+        int total=0;
         for (String s : operations) {
 
             switch (s) {
                 case "C":
                     if (!stack.isEmpty()) {
-                        stack.pop();
+                        total-= stack.pop();
+                        
                     }
 
                     break;
@@ -19,6 +20,7 @@ class Solution {
                         int n = stack.peek();
                         n = n * 2;
                         stack.push(n);
+                        total +=n;
                     }
 
                     break;
@@ -34,21 +36,23 @@ class Solution {
                         }
                         stack.push(a);
                         stack.push(c);
+                        total+=c;
                     }
                     break;
                 default:
-                    stack.push(Integer.parseInt(s));
-
+                    int t = Integer.parseInt(s);
+                    stack.push(t);
+                    total+=t;
                     break;
             }
         }
 
-        int sum = 0;
-        while (!stack.isEmpty()) {
-            sum += stack.pop();
-        }
+        // int sum = 0;
+        // while (!stack.isEmpty()) {
+        //     sum += stack.pop();
+        // }
 
-        return sum;
+        return total;
 
     }
 }
