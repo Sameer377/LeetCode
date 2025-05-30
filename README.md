@@ -26,6 +26,7 @@
 | [0290-word-pattern](https://github.com/Sameer377/LeetCode/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/Sameer377/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0817-design-hashmap](https://github.com/Sameer377/LeetCode/tree/master/0817-design-hashmap) |
+| [1297-maximum-number-of-balloons](https://github.com/Sameer377/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 ## Stack
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0402-remove-k-digits](https://github.com/Sameer377/LeetCode/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sameer377/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Sameer377/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1297-maximum-number-of-balloons](https://github.com/Sameer377/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2470-removing-stars-from-a-string](https://github.com/Sameer377/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Greedy
 |  |
@@ -120,4 +122,8 @@
 | ------- |
 | [0682-baseball-game](https://github.com/Sameer377/LeetCode/tree/master/0682-baseball-game) |
 | [2470-removing-stars-from-a-string](https://github.com/Sameer377/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+## Counting
+|  |
+| ------- |
+| [1297-maximum-number-of-balloons](https://github.com/Sameer377/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
