@@ -13,7 +13,6 @@ class Solution {
                         stack.pop();
                     }
 
-                    System.out.println(s);
                     break;
                 case "D":
                     if (!stack.isEmpty()) {
@@ -21,7 +20,6 @@ class Solution {
                         n = n * 2;
                         stack.push(n);
                     }
-                    System.out.println(stack.peek());
 
                     break;
                 case "+":
@@ -37,11 +35,9 @@ class Solution {
                         stack.push(a);
                         stack.push(c);
                     }
-                    System.out.println(stack.peek());
                     break;
                 default:
                     stack.push(Integer.parseInt(s));
-                    System.out.println(s);
 
                     break;
             }
