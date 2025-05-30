@@ -23,10 +23,18 @@ class Solution {
 
                     break;
                 case "+":
-                    int last = stack.pop();
-                    int secondLast = stack.peek();
-                    stack.push(last);
-                    stack.push(last + secondLast);
+                    if (!stack.isEmpty()) {
+                        int a = stack.pop();
+
+                        int b = 0;
+                        int c = 0;
+                        if (!stack.isEmpty()) {
+                            b = stack.peek();
+                            c = a + b;
+                        }
+                        stack.push(a);
+                        stack.push(c);
+                    }
                     break;
                 default:
                     stack.push(Integer.parseInt(s));
