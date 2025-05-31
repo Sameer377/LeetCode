@@ -88,6 +88,7 @@
 | [0013-roman-to-integer](https://github.com/Sameer377/LeetCode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sameer377/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Sameer377/LeetCode/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/Sameer377/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1635-number-of-good-pairs](https://github.com/Sameer377/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
@@ -141,4 +142,5 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sameer377/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sameer377/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sameer377/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0367-valid-perfect-square](https://github.com/Sameer377/LeetCode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
