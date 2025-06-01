@@ -18,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/Sameer377/LeetCode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Sameer377/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sameer377/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sameer377/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/Sameer377/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Sameer377/LeetCode/tree/master/0739-daily-temperatures) |
 | [0817-design-hashmap](https://github.com/Sameer377/LeetCode/tree/master/0817-design-hashmap) |
@@ -145,4 +146,5 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sameer377/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Sameer377/LeetCode/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/Sameer377/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sameer377/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
