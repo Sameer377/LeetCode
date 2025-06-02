@@ -94,6 +94,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sameer377/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Sameer377/LeetCode/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Sameer377/LeetCode/tree/master/0367-valid-perfect-square) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Sameer377/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1635-number-of-good-pairs](https://github.com/Sameer377/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
@@ -107,6 +108,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sameer377/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Sameer377/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1297-maximum-number-of-balloons](https://github.com/Sameer377/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Sameer377/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2470-removing-stars-from-a-string](https://github.com/Sameer377/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Greedy
 |  |
@@ -156,4 +158,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sameer377/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sameer377/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Sliding Window
+|  |
+| ------- |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Sameer377/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
