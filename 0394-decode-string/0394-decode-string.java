@@ -1,43 +1,38 @@
 class Solution {
     public String decodeString(String s) {
 
-        Stack<String> strStack = new Stack<>();
+        Stack<StringBuilder> strStack = new Stack<>();
         Stack<Integer> numStack = new Stack<>();
-        String num = "";
-        String str = "";
+        StringBuilder curr = new StringBuilder();
+        int num = 0;
+
         for (char c : s.toCharArray()) {
 
-            if (c == '[') {
-                numStack.push(Integer.parseInt(num));
-                num = "";
-                strStack.push(c + "");
-            } else if (Character.isAlphabetic(c)) {
-                strStack.push(c + "");
+            if (Character.isDigit(c)) {
+                num = num * 10 + (c - '0'); // build number for multiple digits
+            } else if (c == '[') {
+                // Push current state
+                strStack.push(curr);
+                numStack.push(num);
+                curr = new StringBuilder();
+                num = 0;
             } else if (c == ']') {
-                while (!strStack.isEmpty() && !strStack.peek().equals("[")) {
-                    str = strStack.pop() + str;
+                // Pop and build the repeated string
+                StringBuilder prev = strStack.pop();
+                int repeatTimes = numStack.pop();
+                StringBuilder repeated = new StringBuilder();
+
+                for (int i = 0; i < repeatTimes; i++) {
+                    repeated.append(curr);
                 }
 
-                if (!strStack.isEmpty()&& strStack.peek().equals("["))
-                    strStack.pop();
-
-                int n = numStack.pop();
-                String f = str;
-                strStack.push(f.repeat(n));
-                str = "";
-
-            } else if (Character.isDigit(c)) {
-                num += c;
+                curr = prev.append(repeated);
+            } else {
+                // It’s a letter
+                curr.append(c);
             }
-
         }
 
-        String ans = "";
-
-        while (!strStack.isEmpty()) {
-            ans = strStack.pop() + ans;
-        }
-
-        return ans;
+        return curr.toString();
     }
 }
