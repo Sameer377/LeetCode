@@ -45,6 +45,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sameer377/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sameer377/LeetCode/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/Sameer377/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Sameer377/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sameer377/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sameer377/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -89,6 +90,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Sameer377/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sameer377/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0394-decode-string](https://github.com/Sameer377/LeetCode/tree/master/0394-decode-string) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [0205-isomorphic-strings](https://github.com/Sameer377/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sameer377/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sameer377/LeetCode/tree/master/0290-word-pattern) |
+| [0394-decode-string](https://github.com/Sameer377/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Sameer377/LeetCode/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sameer377/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Sameer377/LeetCode/tree/master/1078-remove-outermost-parentheses) |
