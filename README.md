@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/Sameer377/LeetCode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sameer377/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Sameer377/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Sameer377/LeetCode/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sameer377/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sameer377/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sameer377/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -130,6 +131,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sameer377/LeetCode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Sameer377/LeetCode/tree/master/0682-baseball-game) |
 | [2470-removing-stars-from-a-string](https://github.com/Sameer377/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Counting
@@ -147,4 +149,8 @@
 | [0162-find-peak-element](https://github.com/Sameer377/LeetCode/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/Sameer377/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sameer377/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Sameer377/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
