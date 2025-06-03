@@ -46,6 +46,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sameer377/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sameer377/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Sameer377/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/Sameer377/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Sameer377/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sameer377/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sameer377/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Sameer377/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0817-design-hashmap](https://github.com/Sameer377/LeetCode/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
@@ -171,4 +173,8 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Sameer377/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Sameer377/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sameer377/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
