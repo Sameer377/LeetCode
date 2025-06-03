@@ -47,6 +47,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sameer377/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sameer377/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sameer377/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Sameer377/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Sameer377/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Sameer377/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sameer377/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -135,6 +136,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/Sameer377/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sameer377/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Sameer377/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0817-design-hashmap](https://github.com/Sameer377/LeetCode/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
@@ -177,4 +179,5 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sameer377/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Sameer377/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
