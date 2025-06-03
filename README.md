@@ -25,6 +25,7 @@
 | [0682-baseball-game](https://github.com/Sameer377/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Sameer377/LeetCode/tree/master/0739-daily-temperatures) |
 | [0817-design-hashmap](https://github.com/Sameer377/LeetCode/tree/master/0817-design-hashmap) |
+| [0898-transpose-matrix](https://github.com/Sameer377/LeetCode/tree/master/0898-transpose-matrix) |
 | [1635-number-of-good-pairs](https://github.com/Sameer377/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -142,6 +143,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sameer377/LeetCode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Sameer377/LeetCode/tree/master/0682-baseball-game) |
+| [0898-transpose-matrix](https://github.com/Sameer377/LeetCode/tree/master/0898-transpose-matrix) |
 | [2470-removing-stars-from-a-string](https://github.com/Sameer377/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Counting
 |  |
@@ -163,6 +165,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sameer377/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sameer377/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0898-transpose-matrix](https://github.com/Sameer377/LeetCode/tree/master/0898-transpose-matrix) |
 ## Sliding Window
 |  |
 | ------- |
