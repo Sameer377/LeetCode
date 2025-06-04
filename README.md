@@ -40,6 +40,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Sameer377/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Sameer377/LeetCode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Sameer377/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0782-jewels-and-stones](https://github.com/Sameer377/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/Sameer377/LeetCode/tree/master/0817-design-hashmap) |
 | [1297-maximum-number-of-balloons](https://github.com/Sameer377/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/Sameer377/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -118,6 +119,7 @@
 | [0389-find-the-difference](https://github.com/Sameer377/LeetCode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Sameer377/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Sameer377/LeetCode/tree/master/0402-remove-k-digits) |
+| [0782-jewels-and-stones](https://github.com/Sameer377/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sameer377/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Sameer377/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1297-maximum-number-of-balloons](https://github.com/Sameer377/LeetCode/tree/master/1297-maximum-number-of-balloons) |
