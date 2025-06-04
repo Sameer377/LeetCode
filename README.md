@@ -48,6 +48,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sameer377/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sameer377/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sameer377/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sameer377/LeetCode/tree/master/0225-implement-stack-using-queues) |
@@ -113,6 +114,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Sameer377/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Sameer377/LeetCode/tree/master/0013-roman-to-integer) |
+| [0032-longest-valid-parentheses](https://github.com/Sameer377/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Sameer377/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sameer377/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sameer377/LeetCode/tree/master/0290-word-pattern) |
@@ -139,6 +141,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sameer377/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Sameer377/LeetCode/tree/master/0053-maximum-subarray) |
 ## Design
 |  |
