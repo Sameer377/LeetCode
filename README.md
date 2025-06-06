@@ -28,6 +28,7 @@
 | [0898-transpose-matrix](https://github.com/Sameer377/LeetCode/tree/master/0898-transpose-matrix) |
 | [1635-number-of-good-pairs](https://github.com/Sameer377/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/Sameer377/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Sameer377/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,6 +197,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Sameer377/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Sameer377/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Sameer377/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Queue
 |  |
 | ------- |
@@ -210,4 +212,5 @@
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/Sameer377/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Sameer377/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
