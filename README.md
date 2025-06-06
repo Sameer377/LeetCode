@@ -27,6 +27,7 @@
 | [0817-design-hashmap](https://github.com/Sameer377/LeetCode/tree/master/0817-design-hashmap) |
 | [0898-transpose-matrix](https://github.com/Sameer377/LeetCode/tree/master/0898-transpose-matrix) |
 | [1635-number-of-good-pairs](https://github.com/Sameer377/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2714-left-and-right-sum-differences](https://github.com/Sameer377/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -205,4 +206,8 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Sameer377/LeetCode/tree/master/0389-find-the-difference) |
+## Prefix Sum
+|  |
+| ------- |
+| [2714-left-and-right-sum-differences](https://github.com/Sameer377/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
