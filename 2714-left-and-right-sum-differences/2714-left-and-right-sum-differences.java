@@ -15,7 +15,7 @@ class Solution {
 
         for(int i=1;i<n-1;i++){
             int d = (prefix[n-1]-prefix[i]) - prefix[i-1];
-            nums[i]=Math.abs(d);
+            nums[i]=(d<0)?-d:d;
         }
 
         return nums;
