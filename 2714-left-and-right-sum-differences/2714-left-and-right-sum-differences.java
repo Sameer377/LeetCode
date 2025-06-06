@@ -6,7 +6,6 @@ class Solution {
 
         for(int i=1;i<n;i++) {
             prefix[i] = prefix[i-1]+nums[i];
-            System.out.print(prefix[i]);
         }
 
         nums[0] = prefix[n-1]-prefix[0];
