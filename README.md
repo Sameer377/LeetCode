@@ -34,6 +34,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sameer377/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Sameer377/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sameer377/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Sameer377/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Sameer377/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sameer377/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -80,6 +81,7 @@
 | [0016-3sum-closest](https://github.com/Sameer377/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sameer377/LeetCode/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/Sameer377/LeetCode/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sameer377/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Sameer377/LeetCode/tree/master/0189-rotate-array) |
 | [0541-reverse-string-ii](https://github.com/Sameer377/LeetCode/tree/master/0541-reverse-string-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/Sameer377/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -99,6 +101,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Sameer377/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Sameer377/LeetCode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Sameer377/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sameer377/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0817-design-hashmap](https://github.com/Sameer377/LeetCode/tree/master/0817-design-hashmap) |
 ## Recursion
 |  |
