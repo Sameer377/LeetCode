@@ -28,6 +28,7 @@
 | [0817-design-hashmap](https://github.com/Sameer377/LeetCode/tree/master/0817-design-hashmap) |
 | [0898-transpose-matrix](https://github.com/Sameer377/LeetCode/tree/master/0898-transpose-matrix) |
 | [1044-find-common-characters](https://github.com/Sameer377/LeetCode/tree/master/1044-find-common-characters) |
+| [1319-unique-number-of-occurrences](https://github.com/Sameer377/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/Sameer377/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/Sameer377/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Sameer377/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
@@ -51,6 +52,7 @@
 | [0817-design-hashmap](https://github.com/Sameer377/LeetCode/tree/master/0817-design-hashmap) |
 | [1044-find-common-characters](https://github.com/Sameer377/LeetCode/tree/master/1044-find-common-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Sameer377/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1319-unique-number-of-occurrences](https://github.com/Sameer377/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/Sameer377/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Stack
 |  |
