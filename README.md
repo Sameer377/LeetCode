@@ -27,6 +27,7 @@
 | [0739-daily-temperatures](https://github.com/Sameer377/LeetCode/tree/master/0739-daily-temperatures) |
 | [0817-design-hashmap](https://github.com/Sameer377/LeetCode/tree/master/0817-design-hashmap) |
 | [0898-transpose-matrix](https://github.com/Sameer377/LeetCode/tree/master/0898-transpose-matrix) |
+| [1044-find-common-characters](https://github.com/Sameer377/LeetCode/tree/master/1044-find-common-characters) |
 | [1635-number-of-good-pairs](https://github.com/Sameer377/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/Sameer377/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Sameer377/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
@@ -48,6 +49,7 @@
 | [0496-next-greater-element-i](https://github.com/Sameer377/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/Sameer377/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/Sameer377/LeetCode/tree/master/0817-design-hashmap) |
+| [1044-find-common-characters](https://github.com/Sameer377/LeetCode/tree/master/1044-find-common-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Sameer377/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/Sameer377/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Stack
@@ -139,6 +141,7 @@
 | [0541-reverse-string-ii](https://github.com/Sameer377/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0782-jewels-and-stones](https://github.com/Sameer377/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sameer377/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1044-find-common-characters](https://github.com/Sameer377/LeetCode/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/Sameer377/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1297-maximum-number-of-balloons](https://github.com/Sameer377/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Sameer377/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
