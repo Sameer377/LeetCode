@@ -57,6 +57,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/Sameer377/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Sameer377/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/Sameer377/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sameer377/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
@@ -163,6 +164,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/Sameer377/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Sameer377/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sameer377/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sameer377/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Greedy
 |  |
 | ------- |
@@ -206,6 +208,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Sameer377/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Sameer377/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/Sameer377/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sameer377/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
 |  |
 | ------- |
