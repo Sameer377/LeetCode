@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sameer377/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Sameer377/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sameer377/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sameer377/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Sameer377/LeetCode/tree/master/0061-rotate-list) |
@@ -171,6 +172,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sameer377/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Sameer377/LeetCode/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
@@ -242,4 +244,12 @@
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/Sameer377/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Sameer377/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sameer377/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sameer377/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
