@@ -170,6 +170,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Sameer377/LeetCode/tree/master/0055-jump-game) |
+| [0397-integer-replacement](https://github.com/Sameer377/LeetCode/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/Sameer377/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Sameer377/LeetCode/tree/master/0409-longest-palindrome) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sameer377/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -184,6 +185,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Sameer377/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Sameer377/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sameer377/LeetCode/tree/master/0055-jump-game) |
+| [0397-integer-replacement](https://github.com/Sameer377/LeetCode/tree/master/0397-integer-replacement) |
 ## Design
 |  |
 | ------- |
@@ -245,6 +247,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Sameer377/LeetCode/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/Sameer377/LeetCode/tree/master/0397-integer-replacement) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -258,4 +261,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sameer377/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Sameer377/LeetCode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
