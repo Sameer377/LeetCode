@@ -14,6 +14,7 @@
 | [0054-spiral-matrix](https://github.com/Sameer377/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sameer377/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Sameer377/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Sameer377/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sameer377/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sameer377/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sameer377/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -251,6 +252,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Sameer377/LeetCode/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/Sameer377/LeetCode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/Sameer377/LeetCode/tree/master/0397-integer-replacement) |
 ## Prefix Sum
@@ -294,4 +296,5 @@
 | [0051-n-queens](https://github.com/Sameer377/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Sameer377/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Sameer377/LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Sameer377/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
