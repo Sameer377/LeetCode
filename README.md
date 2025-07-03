@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/Sameer377/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sameer377/LeetCode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sameer377/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0051-n-queens](https://github.com/Sameer377/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Sameer377/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sameer377/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sameer377/LeetCode/tree/master/0055-jump-game) |
@@ -281,4 +282,8 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Sameer377/LeetCode/tree/master/0112-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Sameer377/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
