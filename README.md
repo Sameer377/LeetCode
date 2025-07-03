@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/Sameer377/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sameer377/LeetCode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sameer377/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0047-permutations-ii](https://github.com/Sameer377/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Sameer377/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Sameer377/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sameer377/LeetCode/tree/master/0054-spiral-matrix) |
@@ -105,6 +106,7 @@
 | [0015-3sum](https://github.com/Sameer377/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sameer377/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sameer377/LeetCode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Sameer377/LeetCode/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/Sameer377/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sameer377/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sameer377/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -288,6 +290,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sameer377/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0047-permutations-ii](https://github.com/Sameer377/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Sameer377/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Sameer377/LeetCode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
