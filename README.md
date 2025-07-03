@@ -135,6 +135,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Sameer377/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sameer377/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Sameer377/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/Sameer377/LeetCode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Sameer377/LeetCode/tree/master/0394-decode-string) |
 ## Math
 |  |
@@ -142,6 +143,7 @@
 | [0013-roman-to-integer](https://github.com/Sameer377/LeetCode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sameer377/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Sameer377/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Sameer377/LeetCode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Sameer377/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Sameer377/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1635-number-of-good-pairs](https://github.com/Sameer377/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -253,6 +255,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sameer377/LeetCode/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/Sameer377/LeetCode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Sameer377/LeetCode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/Sameer377/LeetCode/tree/master/0397-integer-replacement) |
 ## Prefix Sum
