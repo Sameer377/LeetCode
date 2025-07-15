@@ -209,6 +209,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Sameer377/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0817-design-hashmap](https://github.com/Sameer377/LeetCode/tree/master/0817-design-hashmap) |
 ## Simulation
 |  |
@@ -287,10 +288,12 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sameer377/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Sameer377/LeetCode/tree/master/0112-path-sum) |
+| [0572-subtree-of-another-tree](https://github.com/Sameer377/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Sameer377/LeetCode/tree/master/0112-path-sum) |
+| [0572-subtree-of-another-tree](https://github.com/Sameer377/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -301,6 +304,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sameer377/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Sameer377/LeetCode/tree/master/0112-path-sum) |
+| [0572-subtree-of-another-tree](https://github.com/Sameer377/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -315,4 +319,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Sameer377/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Sameer377/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
