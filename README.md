@@ -286,22 +286,26 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sameer377/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sameer377/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Sameer377/LeetCode/tree/master/0112-path-sum) |
 | [0572-subtree-of-another-tree](https://github.com/Sameer377/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sameer377/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Sameer377/LeetCode/tree/master/0112-path-sum) |
 | [0572-subtree-of-another-tree](https://github.com/Sameer377/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sameer377/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sameer377/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Sameer377/LeetCode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sameer377/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sameer377/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Sameer377/LeetCode/tree/master/0112-path-sum) |
 | [0572-subtree-of-another-tree](https://github.com/Sameer377/LeetCode/tree/master/0572-subtree-of-another-tree) |
