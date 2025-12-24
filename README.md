@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sameer377/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sameer377/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sameer377/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sameer377/LeetCode/tree/master/0018-4sum) |
@@ -98,6 +99,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sameer377/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sameer377/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sameer377/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sameer377/LeetCode/tree/master/0018-4sum) |
@@ -188,6 +190,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sameer377/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Sameer377/LeetCode/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Sameer377/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0397-integer-replacement](https://github.com/Sameer377/LeetCode/tree/master/0397-integer-replacement) |
