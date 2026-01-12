@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/Sameer377/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sameer377/LeetCode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sameer377/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Sameer377/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sameer377/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sameer377/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Sameer377/LeetCode/tree/master/0051-n-queens) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sameer377/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sameer377/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sameer377/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sameer377/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sameer377/LeetCode/tree/master/0225-implement-stack-using-queues) |
@@ -91,6 +93,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sameer377/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Sameer377/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Sameer377/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sameer377/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -103,6 +106,7 @@
 | [0015-3sum](https://github.com/Sameer377/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sameer377/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sameer377/LeetCode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Sameer377/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Sameer377/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sameer377/LeetCode/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sameer377/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -206,6 +210,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sameer377/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sameer377/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sameer377/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sameer377/LeetCode/tree/master/0055-jump-game) |
 | [0397-integer-replacement](https://github.com/Sameer377/LeetCode/tree/master/0397-integer-replacement) |
